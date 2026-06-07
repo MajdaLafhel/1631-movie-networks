@@ -1,4 +1,4 @@
-This repository hosts the **1631 Movie Character Networks** dataset, a large-scale collection of complex networks constructed from movie scripts and subtitles using advanced web scraping and BERT-based entity recognition. This dataset is specifically designed for graph-based machine learning applications, including movie genre classification, community detection, and cinematic structural analysis.
+This repository hosts the **1631 Movie Character Networks** dataset, a large-scale dataset for character networks.
 
 ---
 
@@ -14,18 +14,14 @@ As shown in the repository interface:
 
 If you use this dataset or find our methodology helpful in your research, please cite our corresponding journal paper published in *Data*:
 
-### APA / Text Citation
-> Lafhel, M., & El Hassouni, M. (2026). Movie Genre Classification via Graph-Based Character Networks. *Data*, X(X), XXX.
+## MDPI and ACS Style
+Lafhel, M.; El Hassouni, M.; Cherifi, H. A Framework for Classifying Movie Networks Using Graph Neural Networks. Data 2026, 11, 135. https://doi.org/10.3390/data11060135
 
-### BibTeX
-```bibtex
-@article{lafhel2026movie,
-  title={Movie Genre Classification via Graph-Based Character Networks},
-  author={Lafhel, Majda and El Hassouni, Mohammed},
-  journal={Data},
-  volume={X},
-  number={X},
-  pages={XXX},
-  year={2026},
-  publisher={MDPI}
-}
+## AMA Style
+Lafhel M, El Hassouni M, Cherifi H. A Framework for Classifying Movie Networks Using Graph Neural Networks. Data. 2026; 11(6):135. https://doi.org/10.3390/data11060135
+
+## Chicago/Turabian Style
+Lafhel, Majda, Mohammed El Hassouni, and Hocine Cherifi. 2026. "A Framework for Classifying Movie Networks Using Graph Neural Networks" Data 11, no. 6: 135. https://doi.org/10.3390/data11060135
+
+## APA Style
+Lafhel, M., El Hassouni, M., & Cherifi, H. (2026). A Framework for Classifying Movie Networks Using Graph Neural Networks. Data, 11(6), 135. https://doi.org/10.3390/data11060135
